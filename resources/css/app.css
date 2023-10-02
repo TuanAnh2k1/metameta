@@ -1,0 +1,17 @@
+@import "elements/_buttons.css";
+@import "elements/_icon.css";
+@import "custom/metameta/list.css";
+#fileList a {
+    font-size: 20pt;
+}
+
+#document-preview {
+    overflow: hidden;
+}
+#document-preview .modal-dialog {
+    padding: 0 10vh;
+}
+
+#document-preview .modal-content {
+    height: 90vh;
+}

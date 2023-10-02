@@ -1,0 +1,2 @@
+<input class="form-control form-elements-comment-date form-datepicker" placeholder="yyyy-mm-dd" autocomplete="off"
+       type="text" name="comment_date" @if($disabled) disabled @endif value="{{$date}}">

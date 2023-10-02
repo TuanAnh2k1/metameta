@@ -1,0 +1,27 @@
+.ic-color-user {
+    color: rgb(0, 236, 207);
+}
+
+.ic-color-comment {
+    color: rgb(255, 91, 91);
+}
+
+.ic-color-doc, .ic-color-docx {
+    color: #00188f;
+}
+
+.ic-color-xls, .ic-color-xlsx {
+    color: #007333;
+}
+
+.ic-color-pdf {
+    color: #b50807;
+}
+
+.ic-color-ppt {
+    color: #dd5a00;
+}
+
+.ic-color-jpg {
+    color: #3786d2;
+}
